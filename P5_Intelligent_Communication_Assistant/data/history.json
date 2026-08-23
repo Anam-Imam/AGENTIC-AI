@@ -1,0 +1,898 @@
+[
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Friendly and Heartfelt",
+      "reason": "Personal occasion, informal channel suitable"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday Sarah!",
+      "body": "Dear Sarah, on your special day, we want to wish you all the happiness, love, and success. May this year bring you even more joy and fulfillment. We're honored to have you as part of our team and as a wonderful friend. Here's to another amazing year ahead!",
+      "short_message": "Happy Birthday Sarah! Wishing you a day filled with love, laughter, and all your favorite things."
+    },
+    "alternatives": [
+      "Email with a personalized birthday message and a team video",
+      "A surprise birthday party at the office"
+    ],
+    "id": "6d6e981d",
+    "created_at": "2026-08-16 21:18:37",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Heartfelt and Friendly",
+      "reason": "Personal occasion"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday Sarah!",
+      "body": "Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with love, laughter, and all your favorite things. Here's to another amazing year of friendship and adventure!",
+      "short_message": "Happy Birthday Sarah! Wishing you a wonderful day and year ahead."
+    },
+    "alternatives": [
+      "Email with a birthday theme",
+      "A video message from the team"
+    ],
+    "id": "b6af2d0c",
+    "created_at": "2026-08-16 21:24:44",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Email",
+      "urgency": "Low",
+      "tone": "Friendly and Heartfelt",
+      "reason": "Personal occasion, not requiring immediate attention"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday, Sarah!",
+      "body": "Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with joy, love, and all your favorite things. Here's to another year of adventures and making unforgettable memories together!",
+      "short_message": "Wishing you a happy birthday, Sarah!"
+    },
+    "alternatives": [
+      "Push notification with a birthday message and a link to a birthday song",
+      "A handwritten birthday card sent to her office"
+    ],
+    "id": "ac2b5df2",
+    "created_at": "2026-08-16 21:25:56",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Email",
+      "urgency": "Low",
+      "tone": "Friendly and Heartfelt",
+      "reason": "Personal occasion"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday Sarah!",
+      "body": "Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.",
+      "short_message": "Wishing you a happy birthday, Sarah!"
+    },
+    "alternatives": [
+      "Push notification with a birthday message",
+      "A handwritten birthday card"
+    ],
+    "id": "6bd0ec21",
+    "created_at": "2026-08-16 21:27:46",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Friendly and Heartfelt",
+      "reason": "Personal occasion, suitable for a brief and warm message"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday Sarah!",
+      "body": "Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with joy, love, and all your favorite things. Here's to another year of adventure and making unforgettable memories together!",
+      "short_message": "Happy Birthday Sarah! Wishing you a wonderful year ahead."
+    },
+    "alternatives": [
+      "Email with a personalized birthday card attachment",
+      "A team-wide birthday announcement with a cake-cutting ceremony"
+    ],
+    "id": "7eb2a6a8",
+    "created_at": "2026-08-16 21:29:52",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Friendly and Heartfelt",
+      "reason": "Personal occasion, suitable for a brief and warm message"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday Sarah!",
+      "body": "Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with love, laughter, and all your favorite things. Here's to another amazing year of friendship and adventure!",
+      "short_message": "Happy Birthday Sarah! Wishing you a wonderful day and year ahead."
+    },
+    "alternatives": [
+      "Send an email with a personalized birthday message and a small gift voucher.",
+      "Create a team birthday card for everyone to sign and give to Sarah."
+    ],
+    "id": "e9015171",
+    "created_at": "2026-08-16 21:33:15",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Email",
+      "urgency": "Low",
+      "tone": "Heartfelt and Friendly",
+      "reason": "Personal occasion, not time-sensitive"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday, Sarah!",
+      "body": "Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.",
+      "short_message": "Wishing you a happy birthday, Sarah!"
+    },
+    "alternatives": [
+      "Push notification with a birthday GIF",
+      "Handwritten birthday card"
+    ],
+    "id": "f16fdbae",
+    "created_at": "2026-08-16 21:37:44",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Production Server Down",
+      "channel": "Push notification",
+      "urgency": "Critical",
+      "tone": "Professional",
+      "reason": "Immediate attention required to minimize downtime"
+    },
+    "communication": {
+      "recipient": "technical.team@example.com",
+      "subject": "Production Server Down - Immediate Action Required",
+      "body": "The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.",
+      "short_message": "Production server down. Investigate and resolve ASAP."
+    },
+    "alternatives": [
+      "Email with high priority flag",
+      "SMS for team leads"
+    ],
+    "id": "376a25bb",
+    "created_at": "2026-08-16 21:51:14",
+    "input": {
+      "situation": "The production server is down. Notify the technical team immediately using the most appropriate communication method.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Production Server Down",
+      "channel": "Push notification",
+      "urgency": "Critical",
+      "tone": "Professional",
+      "reason": "Immediate attention required to minimize downtime"
+    },
+    "communication": {
+      "recipient": "technical.team@example.com",
+      "subject": "Production Server Down - Immediate Action Required",
+      "body": "The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.",
+      "short_message": "Production server down. Immediate action required."
+    },
+    "alternatives": [
+      "Email with high priority flag",
+      "SMS for key team members"
+    ],
+    "id": "9c19e941",
+    "created_at": "2026-08-16 22:02:07",
+    "input": {
+      "situation": "The production server is down. Notify the technical team immediately using the most appropriate communication method.\"",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Production Server Down",
+      "channel": "Push notification",
+      "urgency": "Critical",
+      "tone": "Professional",
+      "reason": "Immediate attention required to minimize downtime"
+    },
+    "communication": {
+      "recipient": "technical.team@example.com",
+      "subject": "Production Server Down - Immediate Action Required",
+      "body": "The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.",
+      "short_message": "Production server down. Investigate and resolve ASAP."
+    },
+    "alternatives": [
+      "Email with high priority flag",
+      "SMS for key team members"
+    ],
+    "id": "d95fd233",
+    "created_at": "2026-08-16 22:02:26",
+    "input": {
+      "situation": "The production server is down. Notify the technical team immediately using the most appropriate communication method.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a celebratory message to the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday to the Moon!",
+      "body": "Dear Team, today marks a special day - the Moon's birthday! Let's take a moment to appreciate the beauty and significance of our celestial neighbor. Wishing you all a wonderful day.",
+      "short_message": "Happy Birthday to the Moon!"
+    },
+    "alternatives": [
+      "Email with a custom birthday template",
+      "A team-wide announcement on the company's internal platform"
+    ],
+    "id": "ad89a966",
+    "created_at": "2026-08-16 22:19:49",
+    "input": {
+      "situation": "create birthday wishes for moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Casual team celebration"
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday to Our Moon!",
+      "body": "Dear Team, today marks a special day as we celebrate the birthday of our Moon. Let's take a moment to appreciate its beauty and significance in our lives. Wishing you all a wonderful day!",
+      "short_message": "Happy Birthday to Our Moon!"
+    },
+    "alternatives": [
+      "Email with a lunar-themed template",
+      "In-app notification with a fun, animated GIF"
+    ],
+    "id": "ca3262fb",
+    "created_at": "2026-08-16 22:20:22",
+    "input": {
+      "situation": "create birthday wishes for moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally low-urgency and suitable for a push notification to quickly reach the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday, Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday, Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "b3ff63ae",
+    "created_at": "2026-08-16 22:27:58",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a celebratory message to the team, as it is a non-intrusive and timely way to share birthday wishes."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "In-person birthday celebration announcement"
+    ],
+    "id": "c19a9bd0",
+    "created_at": "2026-08-16 22:28:00",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a birthday wish as it is a celebratory and non-urgent message."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide announcement on the company's intranet"
+    ],
+    "id": "207905f7",
+    "created_at": "2026-08-16 22:28:02",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a team-wide birthday wish, as it is a casual yet professional way to acknowledge the occasion."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday, Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday, Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "3f1b8793",
+    "created_at": "2026-08-16 22:28:03",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally casual and can be effectively communicated through a push notification to the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Send an email with a birthday message and a team-wide announcement.",
+      "Create a shared birthday card for team members to sign and give to Moon."
+    ],
+    "id": "c304d22c",
+    "created_at": "2026-08-16 22:28:05",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally casual and do not require a formal email, a push notification is more suitable for the team"
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday e-card",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "cd09a1ec",
+    "created_at": "2026-08-16 22:28:07",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a team-wide birthday wish, as it is a casual yet professional way to acknowledge the occasion."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday, Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday, Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "1ace1d79",
+    "created_at": "2026-08-16 22:28:09",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally low-urgency and suitable for a push notification to quickly reach the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday, Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday, Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "cb43b98d",
+    "created_at": "2026-08-16 22:28:11",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally casual and can be effectively communicated through a push notification to the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "48151fcb",
+    "created_at": "2026-08-16 22:28:12",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a birthday wish as it is a celebratory and non-urgent message."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email",
+      "In-app message"
+    ],
+    "id": "bc0f34f2",
+    "created_at": "2026-08-16 22:28:14",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are typically informal and a push notification is suitable for a team setting"
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "ac0af474",
+    "created_at": "2026-08-16 22:28:16",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally casual and can be effectively communicated through a push notification to the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "8dc541d7",
+    "created_at": "2026-08-16 22:28:18",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally casual and can be effectively communicated through a push notification to the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Send an email with a birthday message and a team-wide announcement",
+      "Create a shared birthday card for team members to sign and send to Moon"
+    ],
+    "id": "d3e510dd",
+    "created_at": "2026-08-16 22:28:20",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a team-wide birthday greeting, as it is a casual yet timely way to acknowledge the occasion."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Send an email with a birthday message and a team-wide greeting.",
+      "Create a shared team calendar event to mark Moon's birthday."
+    ],
+    "id": "0987d512",
+    "created_at": "2026-08-16 22:28:22",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a team-wide birthday wish, as it is a casual yet timely way to acknowledge the occasion."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday, Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday, Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "fdcdee4b",
+    "created_at": "2026-08-16 22:28:24",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a celebratory message to the team, as it is a non-urgent and informal yet professional way to share the news."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "98a4dd6d",
+    "created_at": "2026-08-16 22:28:25",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a team-wide birthday wish, as it is a casual yet timely way to acknowledge the occasion."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday, Moon!",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday, Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "43e1ba1a",
+    "created_at": "2026-08-16 22:28:27",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are generally casual and can be effectively communicated through a push notification to the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Send an email with a birthday message and a team-wide announcement.",
+      "Create a shared birthday card for team members to sign and give to Moon."
+    ],
+    "id": "c90a53f3",
+    "created_at": "2026-08-16 22:28:28",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Birthday wishes are typically casual and do not require a formal email, a push notification is more suitable for a team setting"
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday Moon",
+      "body": "Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.",
+      "short_message": "Happy Birthday Moon!"
+    },
+    "alternatives": [
+      "Email with a birthday card attachment",
+      "A team-wide birthday announcement on the company's internal platform"
+    ],
+    "id": "62c89251",
+    "created_at": "2026-08-16 22:28:41",
+    "input": {
+      "situation": "Birthday Wishes for Moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "Team birthday celebration"
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": null,
+      "body": null,
+      "short_message": "Wishing a happy birthday to our team member!"
+    },
+    "alternatives": [
+      "Schedule a birthday email",
+      "Display birthday message on team dashboard"
+    ],
+    "id": "ecbaf143",
+    "created_at": "2026-08-16 22:32:11",
+    "input": {
+      "situation": "birthday wishes",
+      "channel": "Push notification",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "decision": {
+      "title": "Birthday Wish for Sarah",
+      "channel": "Email",
+      "urgency": "Low",
+      "tone": "Heartfelt and Friendly",
+      "reason": "Personal occasion, not time-sensitive"
+    },
+    "communication": {
+      "recipient": "sarah@example.com",
+      "subject": "Happy Birthday, Sarah!",
+      "body": "Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.",
+      "short_message": "Wishing you a happy birthday, Sarah!"
+    },
+    "alternatives": [
+      "Push notification with a birthday GIF",
+      "Handwritten birthday card"
+    ],
+    "id": "f16fdbae",
+    "created_at": "2026-08-16 21:37:44",
+    "input": {
+      "situation": "Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  },
+  {
+    "decision": {
+      "title": "Birthday Wishes for Moon",
+      "channel": "Push notification",
+      "urgency": "Low",
+      "tone": "Professional",
+      "reason": "A push notification is suitable for a celebratory message to the team."
+    },
+    "communication": {
+      "recipient": "team@example.com",
+      "subject": "Happy Birthday to the Moon!",
+      "body": "Dear Team, today marks a special day - the Moon's birthday! Let's take a moment to appreciate the beauty and significance of our celestial neighbor. Wishing you all a wonderful day.",
+      "short_message": "Happy Birthday to the Moon!"
+    },
+    "alternatives": [
+      "Email with a custom birthday template",
+      "A team-wide announcement on the company's internal platform"
+    ],
+    "id": "ad89a966",
+    "created_at": "2026-08-16 22:19:49",
+    "input": {
+      "situation": "create birthday wishes for moon",
+      "channel": "Auto",
+      "audience": "Team",
+      "urgency": "Auto",
+      "tone": "Professional"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:18:37",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wish for Sarah\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Friendly and Heartfelt\",\n    \"reason\": \"Personal occasion, informal channel suitable\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to wish you all the happiness, love, and success. May this year bring you even more joy and fulfillment. We're honored to have you as part of our team and as a wonderful friend. Here's to another amazing year ahead!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a day filled with love, laughter, and all your favorite things.\"\n  },\n  \"alternatives\": [\n    \"Email with a personalized birthday message and a team video\",\n    \"A surprise birthday party at the office\"\n  ],\n  \"id\": \"6d6e981d\",\n  \"created_at\": \"2026-08-16 21:18:37\",\n  \"input\": {\n    \"situation\": \"Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:19:06",
+    "summary": "{\n  \"result\": {\n    \"ok\": false,\n    \"message\": \"SMTP authentication failed. Check SMTP_USERNAME/PASSWORD and use an app password if your email provider requires one.\"\n  },\n  \"recipient\": \"vxulsc@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to wish you all the happiness, love, and success. May this year bring you even more joy and fulfillment. We're honored to have you as part of our team and as a wonderful friend. Here's to another amazing year ahead!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a day filled with love, laughter, and all your favorite things.\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:24:44",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wish for Sarah\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Heartfelt and Friendly\",\n    \"reason\": \"Personal occasion\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with love, laughter, and all your favorite things. Here's to another amazing year of friendship and adventure!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a wonderful day and year ahead.\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday theme\",\n    \"A video message from the team\"\n  ],\n  \"id\": \"b6af2d0c\",\n  \"created_at\": \"2026-08-16 21:24:44\",\n  \"input\": {\n    \"situation\": \"Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:25:02",
+    "summary": "{\n  \"result\": {\n    \"ok\": false,\n    \"message\": \"SMTP authentication failed. Check SMTP_USERNAME/PASSWORD and use an app password if your email provider requires one.\"\n  },\n  \"recipient\": \"vxulsc@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with love, laughter, and all your favorite things. Here's to another amazing year of friendship and adventure!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a wonderful day and year ahead.\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:25:56",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wish for Sarah\",\n    \"channel\": \"Email\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Friendly and Heartfelt\",\n    \"reason\": \"Personal occasion, not requiring immediate attention\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with joy, love, and all your favorite things. Here's to another year of adventures and making unforgettable memories together!\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  },\n  \"alternatives\": [\n    \"Push notification with a birthday message and a link to a birthday song\",\n    \"A handwritten birthday card sent to her office\"\n  ],\n  \"id\": \"ac2b5df2\",\n  \"created_at\": \"2026-08-16 21:25:56\",\n  \"input\": {\n    \"situation\": \"Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:26:19",
+    "summary": "{\n  \"result\": {\n    \"ok\": false,\n    \"message\": \"SMTP authentication failed. Check SMTP_USERNAME/PASSWORD and use an app password if your email provider requires one.\"\n  },\n  \"recipient\": \"anamimam098@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with joy, love, and all your favorite things. Here's to another year of adventures and making unforgettable memories together!\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:27:46",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wish for Sarah\",\n    \"channel\": \"Email\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Friendly and Heartfelt\",\n    \"reason\": \"Personal occasion\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  },\n  \"alternatives\": [\n    \"Push notification with a birthday message\",\n    \"A handwritten birthday card\"\n  ],\n  \"id\": \"6bd0ec21\",\n  \"created_at\": \"2026-08-16 21:27:46\",\n  \"input\": {\n    \"situation\": \"Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:27:54",
+    "summary": "{\n  \"result\": {\n    \"ok\": false,\n    \"message\": \"SMTP authentication failed. Check SMTP_USERNAME/PASSWORD and use an app password if your email provider requires one.\"\n  },\n  \"recipient\": \"sarah@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:29:52",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wish for Sarah\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Friendly and Heartfelt\",\n    \"reason\": \"Personal occasion, suitable for a brief and warm message\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with joy, love, and all your favorite things. Here's to another year of adventure and making unforgettable memories together!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a wonderful year ahead.\"\n  },\n  \"alternatives\": [\n    \"Email with a personalized birthday card attachment\",\n    \"A team-wide birthday announcement with a cake-cutting ceremony\"\n  ],\n  \"id\": \"7eb2a6a8\",\n  \"created_at\": \"2026-08-16 21:29:52\",\n  \"input\": {\n    \"situation\": \"Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:30:10",
+    "summary": "{\n  \"result\": {\n    \"ok\": false,\n    \"message\": \"SMTP authentication failed. Check SMTP_USERNAME/PASSWORD and use an app password if your email provider requires one.\"\n  },\n  \"recipient\": \"vxulsc@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with joy, love, and all your favorite things. Here's to another year of adventure and making unforgettable memories together!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a wonderful year ahead.\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:33:15",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wish for Sarah\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Friendly and Heartfelt\",\n    \"reason\": \"Personal occasion, suitable for a brief and warm message\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with love, laughter, and all your favorite things. Here's to another amazing year of friendship and adventure!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a wonderful day and year ahead.\"\n  },\n  \"alternatives\": [\n    \"Send an email with a personalized birthday message and a small gift voucher.\",\n    \"Create a team birthday card for everyone to sign and give to Sarah.\"\n  ],\n  \"id\": \"e9015171\",\n  \"created_at\": \"2026-08-16 21:33:15\",\n  \"input\": {\n    \"situation\": \"Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:33:36",
+    "summary": "{\n  \"result\": {\n    \"ok\": false,\n    \"message\": \"SMTP authentication failed. Check SMTP_USERNAME/PASSWORD and use an app password if your email provider requires one.\"\n  },\n  \"recipient\": \"vxulsc@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, we want to express how much you mean to us. Wishing you a year filled with love, laughter, and all your favorite things. Here's to another amazing year of friendship and adventure!\",\n    \"short_message\": \"Happy Birthday Sarah! Wishing you a wonderful day and year ahead.\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:37:44",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wish for Sarah\",\n    \"channel\": \"Email\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Heartfelt and Friendly\",\n    \"reason\": \"Personal occasion, not time-sensitive\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  },\n  \"alternatives\": [\n    \"Push notification with a birthday GIF\",\n    \"Handwritten birthday card\"\n  ],\n  \"id\": \"f16fdbae\",\n  \"created_at\": \"2026-08-16 21:37:44\",\n  \"input\": {\n    \"situation\": \"Create a warm and beautiful birthday wish for my best friend Sarah. Make it friendly, heartfelt, and not too long.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:38:14",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to anamimam098@example.com.\"\n  },\n  \"recipient\": \"anamimam098@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:40:59",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to anamimam098@example.com.\"\n  },\n  \"recipient\": \"anamimam098@example.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "PUSHOVER",
+    "timestamp": "2026-08-16 21:41:04",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Push notification sent successfully.\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "PUSHOVER",
+    "timestamp": "2026-08-16 21:41:12",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Push notification sent successfully.\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:44:17",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to anamimam098@email.com.\"\n  },\n  \"recipient\": \"anamimam098@email.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:44:59",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to anamimam098@gmail.com.\"\n  },\n  \"recipient\": \"anamimam098@gmail.com\",\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "PUSHOVER",
+    "timestamp": "2026-08-16 21:45:49",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Push notification sent successfully.\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "PUSHOVER",
+    "timestamp": "2026-08-16 21:48:12",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Push notification sent successfully.\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "PUSHOVER",
+    "timestamp": "2026-08-16 21:48:27",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Push notification sent successfully.\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "PUSHOVER",
+    "timestamp": "2026-08-16 21:48:40",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Push notification sent successfully.\"\n  },\n  \"communication\": {\n    \"recipient\": \"sarah@example.com\",\n    \"subject\": \"Happy Birthday, Sarah!\",\n    \"body\": \"Dear Sarah, on your special day, I want to express how grateful I am for our friendship. Here's to another year of love, laughter, and adventure together! Wishing you a birthday as bright and beautiful as you are.\",\n    \"short_message\": \"Wishing you a happy birthday, Sarah!\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 21:51:14",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Production Server Down\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Critical\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Immediate attention required to minimize downtime\"\n  },\n  \"communication\": {\n    \"recipient\": \"technical.team@example.com\",\n    \"subject\": \"Production Server Down - Immediate Action Required\",\n    \"body\": \"The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.\",\n    \"short_message\": \"Production server down. Investigate and resolve ASAP.\"\n  },\n  \"alternatives\": [\n    \"Email with high priority flag\",\n    \"SMS for team leads\"\n  ],\n  \"id\": \"376a25bb\",\n  \"created_at\": \"2026-08-16 21:51:14\",\n  \"input\": {\n    \"situation\": \"The production server is down. Notify the technical team immediately using the most appropriate communication method.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 21:51:49",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to yummysfood175@gmail.com.\"\n  },\n  \"recipient\": \"yummysfood175@gmail.com\",\n  \"communication\": {\n    \"recipient\": \"technical.team@example.com\",\n    \"subject\": \"Production Server Down - Immediate Action Required\",\n    \"body\": \"The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.\",\n    \"short_message\": \"Production server down. Investigate and resolve ASAP.\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:02:07",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Production Server Down\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Critical\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Immediate attention required to minimize downtime\"\n  },\n  \"communication\": {\n    \"recipient\": \"technical.team@example.com\",\n    \"subject\": \"Production Server Down - Immediate Action Required\",\n    \"body\": \"The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.\",\n    \"short_message\": \"Production server down. Immediate action required.\"\n  },\n  \"alternatives\": [\n    \"Email with high priority flag\",\n    \"SMS for key team members\"\n  ],\n  \"id\": \"9c19e941\",\n  \"created_at\": \"2026-08-16 22:02:07\",\n  \"input\": {\n    \"situation\": \"The production server is down. Notify the technical team immediately using the most appropriate communication method.\\\"\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:02:26",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Production Server Down\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Critical\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Immediate attention required to minimize downtime\"\n  },\n  \"communication\": {\n    \"recipient\": \"technical.team@example.com\",\n    \"subject\": \"Production Server Down - Immediate Action Required\",\n    \"body\": \"The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.\",\n    \"short_message\": \"Production server down. Investigate and resolve ASAP.\"\n  },\n  \"alternatives\": [\n    \"Email with high priority flag\",\n    \"SMS for key team members\"\n  ],\n  \"id\": \"d95fd233\",\n  \"created_at\": \"2026-08-16 22:02:26\",\n  \"input\": {\n    \"situation\": \"The production server is down. Notify the technical team immediately using the most appropriate communication method.\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 22:03:49",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to technical.team@example.com.\"\n  },\n  \"recipient\": \"technical.team@example.com\",\n  \"communication\": {\n    \"recipient\": \"technical.team@example.com\",\n    \"subject\": \"Production Server Down - Immediate Action Required\",\n    \"body\": \"The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.\",\n    \"short_message\": \"Production server down. Investigate and resolve ASAP.\"\n  }\n}"
+  },
+  {
+    "event": "SENDGRID",
+    "timestamp": "2026-08-16 22:03:53",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to technical.team@example.com.\"\n  },\n  \"recipient\": \"technical.team@example.com\",\n  \"communication\": {\n    \"recipient\": \"technical.team@example.com\",\n    \"subject\": \"Production Server Down - Immediate Action Required\",\n    \"body\": \"The production server is currently down. Please investigate and resolve the issue as soon as possible to minimize downtime and prevent further disruptions.\",\n    \"short_message\": \"Production server down. Investigate and resolve ASAP.\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:19:49",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a celebratory message to the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday to the Moon!\",\n    \"body\": \"Dear Team, today marks a special day - the Moon's birthday! Let's take a moment to appreciate the beauty and significance of our celestial neighbor. Wishing you all a wonderful day.\",\n    \"short_message\": \"Happy Birthday to the Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a custom birthday template\",\n    \"A team-wide announcement on the company's internal platform\"\n  ],\n  \"id\": \"ad89a966\",\n  \"created_at\": \"2026-08-16 22:19:49\",\n  \"input\": {\n    \"situation\": \"create birthday wishes for moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SMTP",
+    "timestamp": "2026-08-16 22:20:02",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to team@example.com.\"\n  },\n  \"recipient\": \"team@example.com\",\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday to the Moon!\",\n    \"body\": \"Dear Team, today marks a special day - the Moon's birthday! Let's take a moment to appreciate the beauty and significance of our celestial neighbor. Wishing you all a wonderful day.\",\n    \"short_message\": \"Happy Birthday to the Moon!\"\n  }\n}"
+  },
+  {
+    "event": "PUSHOVER",
+    "timestamp": "2026-08-16 22:20:09",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Push notification sent successfully.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday to the Moon!\",\n    \"body\": \"Dear Team, today marks a special day - the Moon's birthday! Let's take a moment to appreciate the beauty and significance of our celestial neighbor. Wishing you all a wonderful day.\",\n    \"short_message\": \"Happy Birthday to the Moon!\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:20:22",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Casual team celebration\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday to Our Moon!\",\n    \"body\": \"Dear Team, today marks a special day as we celebrate the birthday of our Moon. Let's take a moment to appreciate its beauty and significance in our lives. Wishing you all a wonderful day!\",\n    \"short_message\": \"Happy Birthday to Our Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a lunar-themed template\",\n    \"In-app notification with a fun, animated GIF\"\n  ],\n  \"id\": \"ca3262fb\",\n  \"created_at\": \"2026-08-16 22:20:22\",\n  \"input\": {\n    \"situation\": \"create birthday wishes for moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:27:58",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally low-urgency and suitable for a push notification to quickly reach the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday, Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday, Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"b3ff63ae\",\n  \"created_at\": \"2026-08-16 22:27:58\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:00",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a celebratory message to the team, as it is a non-intrusive and timely way to share birthday wishes.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"In-person birthday celebration announcement\"\n  ],\n  \"id\": \"c19a9bd0\",\n  \"created_at\": \"2026-08-16 22:28:00\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:02",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a birthday wish as it is a celebratory and non-urgent message.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide announcement on the company's intranet\"\n  ],\n  \"id\": \"207905f7\",\n  \"created_at\": \"2026-08-16 22:28:02\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:03",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a team-wide birthday wish, as it is a casual yet professional way to acknowledge the occasion.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday, Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday, Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"3f1b8793\",\n  \"created_at\": \"2026-08-16 22:28:03\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:05",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally casual and can be effectively communicated through a push notification to the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Send an email with a birthday message and a team-wide announcement.\",\n    \"Create a shared birthday card for team members to sign and give to Moon.\"\n  ],\n  \"id\": \"c304d22c\",\n  \"created_at\": \"2026-08-16 22:28:05\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:07",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally casual and do not require a formal email, a push notification is more suitable for the team\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday e-card\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"cd09a1ec\",\n  \"created_at\": \"2026-08-16 22:28:07\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:09",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a team-wide birthday wish, as it is a casual yet professional way to acknowledge the occasion.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday, Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday, Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"1ace1d79\",\n  \"created_at\": \"2026-08-16 22:28:09\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:11",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally low-urgency and suitable for a push notification to quickly reach the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday, Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday, Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"cb43b98d\",\n  \"created_at\": \"2026-08-16 22:28:11\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:12",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally casual and can be effectively communicated through a push notification to the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"48151fcb\",\n  \"created_at\": \"2026-08-16 22:28:12\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:14",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a birthday wish as it is a celebratory and non-urgent message.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email\",\n    \"In-app message\"\n  ],\n  \"id\": \"bc0f34f2\",\n  \"created_at\": \"2026-08-16 22:28:14\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:16",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are typically informal and a push notification is suitable for a team setting\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"ac0af474\",\n  \"created_at\": \"2026-08-16 22:28:16\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:18",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally casual and can be effectively communicated through a push notification to the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"8dc541d7\",\n  \"created_at\": \"2026-08-16 22:28:18\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:20",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally casual and can be effectively communicated through a push notification to the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Send an email with a birthday message and a team-wide announcement\",\n    \"Create a shared birthday card for team members to sign and send to Moon\"\n  ],\n  \"id\": \"d3e510dd\",\n  \"created_at\": \"2026-08-16 22:28:20\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:22",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a team-wide birthday greeting, as it is a casual yet timely way to acknowledge the occasion.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Send an email with a birthday message and a team-wide greeting.\",\n    \"Create a shared team calendar event to mark Moon's birthday.\"\n  ],\n  \"id\": \"0987d512\",\n  \"created_at\": \"2026-08-16 22:28:22\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:24",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a team-wide birthday wish, as it is a casual yet timely way to acknowledge the occasion.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday, Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday, Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"fdcdee4b\",\n  \"created_at\": \"2026-08-16 22:28:24\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:25",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a celebratory message to the team, as it is a non-urgent and informal yet professional way to share the news.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"98a4dd6d\",\n  \"created_at\": \"2026-08-16 22:28:25\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:27",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"A push notification is suitable for a team-wide birthday wish, as it is a casual yet timely way to acknowledge the occasion.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday, Moon!\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday, Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"43e1ba1a\",\n  \"created_at\": \"2026-08-16 22:28:27\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:28",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are generally casual and can be effectively communicated through a push notification to the team.\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Send an email with a birthday message and a team-wide announcement.\",\n    \"Create a shared birthday card for team members to sign and give to Moon.\"\n  ],\n  \"id\": \"c90a53f3\",\n  \"created_at\": \"2026-08-16 22:28:28\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:28:41",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Birthday wishes are typically casual and do not require a formal email, a push notification is more suitable for a team setting\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  },\n  \"alternatives\": [\n    \"Email with a birthday card attachment\",\n    \"A team-wide birthday announcement on the company's internal platform\"\n  ],\n  \"id\": \"62c89251\",\n  \"created_at\": \"2026-08-16 22:28:41\",\n  \"input\": {\n    \"situation\": \"Birthday Wishes for Moon\",\n    \"channel\": \"Auto\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  },
+  {
+    "event": "SMTP",
+    "timestamp": "2026-08-16 22:28:49",
+    "summary": "{\n  \"result\": {\n    \"ok\": true,\n    \"message\": \"Email sent successfully to team@example.com.\"\n  },\n  \"recipient\": \"team@example.com\",\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": \"Happy Birthday Moon\",\n    \"body\": \"Dear Team, please join us in wishing Moon a happy birthday. We hope your special day is filled with joy and celebration.\",\n    \"short_message\": \"Happy Birthday Moon!\"\n  }\n}"
+  },
+  {
+    "event": "ANALYZE",
+    "timestamp": "2026-08-16 22:32:11",
+    "summary": "{\n  \"decision\": {\n    \"title\": \"Birthday Wishes\",\n    \"channel\": \"Push notification\",\n    \"urgency\": \"Low\",\n    \"tone\": \"Professional\",\n    \"reason\": \"Team birthday celebration\"\n  },\n  \"communication\": {\n    \"recipient\": \"team@example.com\",\n    \"subject\": null,\n    \"body\": null,\n    \"short_message\": \"Wishing a happy birthday to our team member!\"\n  },\n  \"alternatives\": [\n    \"Schedule a birthday email\",\n    \"Display birthday message on team dashboard\"\n  ],\n  \"id\": \"ecbaf143\",\n  \"created_at\": \"2026-08-16 22:32:11\",\n  \"input\": {\n    \"situation\": \"birthday wishes\",\n    \"channel\": \"Push notification\",\n    \"audience\": \"Team\",\n    \"urgency\": \"Auto\",\n    \"tone\": \"Professional\"\n  }\n}"
+  }
+]
