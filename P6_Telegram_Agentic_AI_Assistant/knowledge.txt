@@ -1,0 +1,17 @@
+LUXE FLOW — PROJECT 06
+This project is a Telegram Agentic AI Assistant.
+
+Architecture:
+User -> Telegram Bot -> LangGraph Agent Workflow -> Analyze Query -> Tool/Knowledge -> Groq LLM -> Validate -> Telegram Reply.
+
+Main concepts:
+- Telegram Bot
+- LangGraph
+- Groq API
+- Agent + Tools
+- Local knowledge source
+- Calculator tool
+- Validation step
+- Streamlit luxury visual studio
+
+The interface is intentionally not a traditional dashboard or ChatGPT clone.
