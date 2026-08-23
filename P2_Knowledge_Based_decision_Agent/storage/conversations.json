@@ -1,0 +1,285 @@
+[
+  {
+    "id": "eb7fa562-48fe-41a7-a770-6d1129026bd4",
+    "title": "An issue is affecting an important workflow but the service is still p",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Priority:** **P2 – High**\n\n**Rationale**\n\n- The issue is described as “affecting an important workflow” while the service remains partially usable.  \n- Company policy defines **P2** as “serious degradation affecting an important workflow, but the service remains partially usable.”  \n- This matches the situation exactly, so the incident should be classified and handled as a P2.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Priority:** **P2 – High**\n\n**Evidence‑based rationale**\n\n- Company policy defines **P2** as “serious degradation affecting an important workflow, but the service remains partially usable.”  \n- The user’s description matches this definition exactly.  \n- Therefore the incident should be classified and handled as a P2.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      }
+    ],
+    "favorite": true
+  },
+  {
+    "id": "cb9a8a04-1db8-46f2-aa45-c4078ef5fa75",
+    "title": "An issue is affecting an important workflow but the service is still p",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "### Priority Recommendation\nThe issue should receive a **P2 High** priority.\n\n### Rationale\nThe private knowledge-base context states that P2 High priority is assigned to issues that cause \"serious degradation affecting an important workflow, but the service remains partially usable.\" Since the issue is affecting an important workflow but the service is still partially usable, it aligns with the definition of a P2 High priority issue.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": "9ea072aa-786f-4b01-8184-6e1d0823cd26",
+    "title": "I have to plan a trip for next week can you help me",
+    "messages": [
+      {
+        "role": "user",
+        "content": "I have to plan a trip for next week can you help me"
+      },
+      {
+        "role": "assistant",
+        "content": "The private knowledge base does not contain enough information to help plan a trip for next week. The provided context appears to be related to company policies and procedures for incident management and decision-making, but it does not include any information about travel planning or trip organization.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.087
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.046
+          }
+        ]
+      }
+    ],
+    "favorite": true
+  },
+  {
+    "id": "cd8907f4-5a1c-4ece-836f-12b6a4a2c653",
+    "title": "An issue is affecting an important workflow",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow "
+      },
+      {
+        "role": "assistant",
+        "content": "### Recommendation\nBased on the provided context, the issue affecting an important workflow should be classified as a **P2 High** priority incident. \n\n### Rationale\nThe private knowledge-base context states that P2 High incidents involve \"serious degradation affecting an important workflow, but the service remains partially usable.\" Since the issue is affecting an important workflow, it aligns with the description of a P2 High incident. \n\n### Next Steps\nAccording to the escalation policy, P2 incidents should be acknowledged within 30 minutes and escalated to the responsible service owner if the issue is not resolved promptly. The incident owner should provide concise status updates including current impact, known facts, action in progress, and the next expected update.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.379
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.349
+          }
+        ]
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": "b6dffb26-0921-4ddc-8162-d65872e31085",
+    "title": "An issue is affecting an important workflow but the service is still p",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Recommended Priority: P2 High**\n\nThe issue is affecting an important workflow but the service remains partially usable, which aligns with the definition of a P2 High priority level as stated in the company policy. This priority level is appropriate because it reflects a serious degradation of the service without a complete outage, allowing for prompt attention to mitigate the impact on the workflow.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      }
+    ],
+    "favorite": true
+  },
+  {
+    "id": "c325b8f4-37d1-481b-a490-636845484f52",
+    "title": "An issue is affecting an important workflow but the service is still p",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Recommended Priority: P2 High**\n\nThe issue is affecting an important workflow but the service remains partially usable, which aligns with the definition of a P2 High priority incident as stated in the company's decision and support policy. This priority level is appropriate because it reflects a serious degradation of the service without a complete outage, allowing for timely escalation and resolution to minimize customer impact.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      }
+    ],
+    "favorite": true
+  },
+  {
+    "id": "e4b3cf01-c5dd-47f7-82ca-b5f0114a20da",
+    "title": "An issue is affecting an important workflow but the service is still p",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Recommended Priority: P2 High**\n\nThe issue is affecting an important workflow but the service remains partially usable, which aligns with the definition of a P2 High priority incident as stated in the company's policy. This priority level is appropriate because it reflects a serious degradation of the service without a complete outage, allowing for prompt attention to mitigate the impact on the workflow.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      }
+    ],
+    "favorite": true
+  },
+  {
+    "id": "19043fee-db89-40fc-a13f-a20770660d84",
+    "title": "An issue is affecting an important workflow but the service is still p",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Recommended Priority: P2 High**\n\nThe issue is affecting an important workflow but the service remains partially usable, which aligns with the definition of a P2 High priority incident as stated in the company's decision and support policy. This priority level is appropriate because it reflects a serious degradation of the service without a complete outage, allowing for timely escalation and resolution to minimize customer impact.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": "315c577a-88e5-4456-9552-fd13671a61e5",
+    "title": "An issue is affecting an important workflow but the service ",
+    "messages": [
+      {
+        "role": "user",
+        "content": "An issue is affecting an important workflow but the service is still partially usable. What priority should it receive?"
+      },
+      {
+        "role": "assistant",
+        "content": "**Priority Recommendation:** P2 High\n\n**Rationale:** The issue is affecting an important workflow but the service remains partially usable, which aligns with the definition of a P2 High priority level as stated in the company's policy. This classification ensures timely attention to mitigate the impact on the workflow without delaying resolution.",
+        "sources": [
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "# Company Decision & Support Policy  ## Priority levels  - P1 Critical: service outage, major security incident, or issue affecting most users. - P2 High: serious degradation affecting an important workflow, but the service remains partially usable. - P3 Normal: standard operational issue with a workaround available. - P4 Low: cosmetic issue, minor enhanceme",
+            "score": 0.536
+          },
+          {
+            "title": "Company Policy",
+            "source": "company_policy.md",
+            "preview": "## Decision principles  When choosing between operational actions, prioritize:  1. User safety and data protection. 2. Reduction of customer impact. 3. Reversibility. 4. Evidence from monitoring, logs, and approved procedures. 5. Clear ownership and communication.  If evidence is incomplete, do not claim certainty. State what is known, unknown, and what evid",
+            "score": 0.382
+          }
+        ]
+      }
+    ],
+    "favorite": false
+  }
+]
