@@ -1,0 +1,17 @@
+[
+    {
+        "goal": "Research the latest trends in AI agents and summarize them.",
+        "answer": "The latest trends in AI agents include the evolution of agentic systems to handle complex, unpredictable real-world operations, the integration of AI agents into business operations, and the emergence of new pricing models based on task completion or hourly rates. Additionally, there is a focus on AI governance, evaluations, and database transformation, as well as the use of multi-agent and multi-model systems. Some of the top trends and predictions for 2026 include the increased use of AI agents in cybersecurity, the development of more advanced AI agents that can handle complex tasks, and the growth of the AI agent market. Overall, AI agents are expected to continue to play a larger role in shaping work, decision-making, and business operations in the coming year.",
+        "timestamp": "2026-08-15 12:04"
+    },
+    {
+        "goal": "67+89",
+        "answer": "The result of the calculation is 156.",
+        "timestamp": "2026-08-15 20:28"
+    },
+    {
+        "goal": "Calculate the monthly cost if I spend 1200, 850 and 975 each week.",
+        "answer": "Your weekly total is  \n\n\\(1200 + 850 + 975 = 3025\\).\n\nAssuming a month is roughly 4 weeks, the monthly cost is  \n\n\\(3025 \\times 4 = \\mathbf{12{,}100}\\).\n\nSo you’d spend about **$12,100 per month**.",
+        "timestamp": "2026-08-18 11:47"
+    }
+]
