@@ -1,0 +1,14 @@
+[
+  {
+    "memory_id": 6,
+    "type": "one_day_before",
+    "deadline": "2026-08-22",
+    "sent_at": "2026-08-21T20:28:13"
+  },
+  {
+    "memory_id": 9,
+    "type": "one_day_before",
+    "deadline": "2026-08-23",
+    "sent_at": "2026-08-22T18:59:32"
+  }
+]
